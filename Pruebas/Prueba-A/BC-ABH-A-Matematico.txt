@@ -1,0 +1,12 @@
+Base de conocimientos : BC-A
+Base de hechos: BH-A-Matematico
+Objetivo: alumMat
+
+Proceso de inferencia:
+
+Combinación de la evidencia con la regla R1 (Caso 3): 
+FC(esquem_R1) = 0.7 * max(0, 1) = 0.7
+FC(esquem) = 0.7
+Combinación de la evidencia con la regla R5 (Caso 3): 
+FC(alumMat_R5) = 1 * max(0, 0.7) = 0.7
+FC(alumMat) = 0.7

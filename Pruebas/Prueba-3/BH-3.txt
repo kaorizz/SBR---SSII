@@ -1,0 +1,10 @@
+7
+condJoven, FC=0.4
+ant2-3, FC=1
+antMayor3, FC=-1
+condMas3h, FC=1
+cond2-3h, FC=-1
+noSolo, FC=-1
+condBebido, FC=0.5
+Objetivo
+condCaus

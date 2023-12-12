@@ -1,0 +1,9 @@
+6
+visionEsp, FC=1
+buenaOrt, FC=1
+buenaExp, FC=0.5
+buenaMem, FC=-1
+invest, FC=0.4
+ritm, FC=-1
+Objetivo
+alumMus

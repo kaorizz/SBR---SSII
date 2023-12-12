@@ -1,0 +1,24 @@
+Base de conocimientos : BC-1
+Base de hechos: BH-1
+Objetivo: I
+
+Proceso de inferencia:
+
+Combinación de la evidencia con la regla R4 (Caso 3): 
+FC(H_R4) = 0.6 * max(0, -0.3) = 0
+FC(H) = 0
+Combinación de antecedentes de R1 (Caso 1):
+FC(A or A or B) = 0.6
+Combinación de la evidencia con la regla R1 (Caso 3): 
+FC(C_R1) = 0.7 * max(0, 0.6) = 0.42
+Combinación de antecedentes de R2 (Caso 1):
+FC(D and D and E and F) = 0.7
+Combinación de la evidencia con la regla R2 (Caso 3): 
+FC(C_R2) = 0.5 * max(0, 0.7) = 0.35
+Combinación de las reglas, R1, R2 (Caso 2):
+FC(C) = 0.623
+Combinación de antecedentes de R3 (Caso 1):
+FC(C or C or H) = 0.623
+Combinación de la evidencia con la regla R3 (Caso 3): 
+FC(I_R3) = 0.65 * max(0, 0.623) = 0.40495
+FC(I) = 0.40495

@@ -1,0 +1,26 @@
+Base de conocimientos : BC-3
+Base de hechos: BH-3
+Objetivo: condCaus
+
+Proceso de inferencia:
+
+Combinación de la evidencia con la regla R1 (Caso 3): 
+FC(condExp_R1) = 0.5 * max(0, 1) = 0.5
+Combinación de la evidencia con la regla R2 (Caso 3): 
+FC(condExp_R2) = 0.9 * max(0, -1) = 0
+Combinación de las reglas, R1, R2 (Caso 2):
+FC(condExp) = 0.5
+Combinación de la evidencia con la regla R5 (Caso 3): 
+FC(condCaus_R5) = -0.5 * max(0, 0.5) = -0.25
+Combinación de la evidencia con la regla R3 (Caso 3): 
+FC(condCans_R3) = 0.5 * max(0, -1) = 0
+Combinación de la evidencia con la regla R4 (Caso 3): 
+FC(condCans_R4) = 1 * max(0, 1) = 1
+Combinación de las reglas, R3, R4 (Caso 2):
+FC(condCans) = 1
+Combinación de la evidencia con la regla R6 (Caso 3): 
+FC(condCaus_R6) = 0.5 * max(0, 1) = 0.5
+Combinación de la evidencia con la regla R7 (Caso 3): 
+FC(condCaus_R7) = 0.7 * max(0, 0.4) = 0.28
+Combinación de las reglas, R5, R6, R7 (Caso 2):
+FC(condCaus) = 0.52

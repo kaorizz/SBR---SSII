@@ -1,0 +1,14 @@
+Base de conocimientos : BC-2
+Base de hechos: BH-2-EST
+Objetivo: ganaEST
+
+Proceso de inferencia:
+
+Combinación de la evidencia con la regla R1 (Caso 3): 
+FC(ganaEST_R1) = 0.4 * max(0, 1) = 0.4
+Combinación de la evidencia con la regla R4 (Caso 3): 
+FC(ganaEST_R4) = -0.55 * max(0, 0.35) = -0.1925
+Combinación de la evidencia con la regla R6 (Caso 3): 
+FC(ganaEST_R6) = -0.6 * max(0, 1) = -0.6
+Combinación de las reglas, R1, R4, R6 (Caso 2):
+FC(ganaEST) = -0.461667

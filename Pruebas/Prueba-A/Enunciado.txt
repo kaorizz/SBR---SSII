@@ -1,0 +1,13 @@
+Se ha realizado un examen a un alumno del aula para ver en qué campo destaca más. Consideremos el siguiente conocimiento:
+
+a.) Un alumno con visión espacial se considera esquemático (0.7).
+b.) Un alumno con buena ortografía y buena expresión se considera lingüista
+c.) Un alumno lingüista y buena memoria se considera literario (0.6)
+d.) Un alumno investigador se considera historiador (0.5)
+e.) Un alumno esquemático e investigador se considera matemático
+f.) Un alumno rítmico y buena expresión se considera músico (0.9)
+
+Disponemos de las siguientes evidencias: alumno con buena visión espacial, buena ortografía, expresión suficiente (0.5), muy mala memoria, algo investigador (0.4) y arrítimico.
+
+¿Cuál será el grado de certeza de que este conductor sea matemático?
+¿Y de que sea músico?

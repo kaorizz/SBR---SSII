@@ -1,0 +1,15 @@
+Sea la siguiente signatura:  
+Sumatorio={visionEsp, esquem, buenaOrt, buenaExp, ling, buenaMem, alumLit, invest, alumHist, alumMat, ritm, alumMus} donde
+
+visionEsp = "El alumno tiene visión espacial"
+esquem = "El alumno es esquemático"
+buenaOrt = "El alumno tiene buena ortografía"
+buenaExp = "El alumno tiene buena expresión"
+ling = "El alumno es lingüista"
+buenaMem = "El alumno tiene buena memoria"
+alumLit = "El alumno es literario"
+invest = "El alumno es investigador"
+alumHist = "El alumno es historiador"
+alumMat = "El alumno es matemático"
+ritm = "El alumno es rítmico"
+alumMus = "El alumno es músico"

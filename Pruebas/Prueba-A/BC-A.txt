@@ -1,0 +1,7 @@
+6
+R1: Si visionEsp Entonces esquem, FC=0.7
+R2: Si buenaOrt Y buenaExp Entonces ling, FC=1
+R3: Si ling Y buenaMem Entonces alumLit, FC=0.6
+R4: Si invest Entonces alumHist, FC=0.5
+R5: Si esquem Y invest Entonces alumMat, FC=1
+R6: Si ritm Y buenaExp Entonces alumMus, FC=0.9

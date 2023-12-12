@@ -1,0 +1,16 @@
+Base de conocimientos : BC-2
+Base de hechos: BH-2-RM
+Objetivo: ganaRM
+
+Proceso de inferencia:
+
+Combinación de la evidencia con la regla R2 (Caso 3): 
+FC(ganaRM_R2) = 0.75 * max(0, 1) = 0.75
+Combinación de la evidencia con la regla R3 (Caso 3): 
+FC(ganaRM_R3) = -0.4 * max(0, 0.65) = -0.26
+Combinación de antecedentes de R5 (Caso 1):
+FC(les2pivRM and les2pivRM and visitanteRM) = 1
+Combinación de la evidencia con la regla R5 (Caso 3): 
+FC(ganaRM_R5) = -0.1 * max(0, 1) = -0.1
+Combinación de las reglas, R2, R3, R5 (Caso 2):
+FC(ganaRM) = 0.624625

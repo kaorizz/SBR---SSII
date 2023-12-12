@@ -1,0 +1,13 @@
+Sea la siguiente signatura:  
+Sumatorio={condExp, ant2-3, antMayor3, cond2-3h, condMas3h, condCans, noSolo, condCaus, condJoven, condBebido} donde
+
+condExp = "El conductor tiene experiencia"
+ant2-3 = "El conductor tiene antigüedad de 2-3 años"
+antMayor3 = "El conductor tiene antigüedad de más de 3 años"
+cond2-3h = "El conductor ha conducido entre 2-3h"
+condMas3h = "El conductor ha conducido más de 3h"
+condCans = "El conductor está cansado"
+noSolo = "El conductor no viaja solo"
+condJoven = "El conductor es joven"
+condBebido = "El conductor ha bebido"
+condCaus = "El conductor es el causante del accidente"

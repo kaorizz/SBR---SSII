@@ -1,0 +1,9 @@
+Base de conocimientos : BC-A
+Base de hechos: BH-A-Musico
+Objetivo: alumMus
+
+Proceso de inferencia:
+
+Combinación de la evidencia con la regla R6 (Caso 3): 
+FC(alumMus_R6) = 0.9 * max(0, -1) = 0
+FC(alumMus) = 0
